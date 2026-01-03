@@ -1,0 +1,51 @@
+patient_id,age,gender,diagnosis,medication,discharged
+P-0001,34,Male,Acute bronchitis,"['Azithromycin', 'Paracetamol']",False
+P-0002,68,Female,Hypertension,"['Lisinopril', 'Hydrochlorothiazide']",True
+P-0003,45,Female,Pneumonia,"['Amoxicillin', 'Azithromycin', 'Paracetamol']",False
+P-0004,52,Male,Urinary tract infection,"['Nitrofurantoin', 'Paracetamol']",True
+P-0005,26,Female,Diabetes mellitus type 2,"['Metformin', 'Insulin glargine']",False
+P-0006,38,Male,Cholecystitis,"['Diclofenac', 'Ceftriaxone', 'Omeprazole']",True
+P-0007,72,Female,Fractured femur,"['Morphine', 'Acetaminophen', 'Calcium supplement']",False
+P-0008,30,Male,Migraine,"['Sumatriptan', 'Paracetamol', 'Hydration IV']",True
+P-0009,65,Female,Asthma exacerbation,"['Albuterol inhaler', 'Ipratropium', 'Prednisone']",False
+P-0010,40,Male,COVID-19,"['Dexamethasone', 'Paracetamol', 'Vitamin C']",True
+P-0011,55,Male,Depressive disorder,"['Sertraline', 'Bupropion']",True
+P-0012,29,Female,Gastroenteritis,"['Ondansetron', 'Loperamide', 'Oral rehydration salts']",True
+P-0013,83,Male,Anemia,"['Iron supplement', 'Vitamin B12', 'Folate']",True
+P-0014,47,Female,Hyperlipidemia,"['Atorvastatin', 'Ezetimibe']",True
+P-0015,60,Male,Osteoarthritis,"['Naproxen', 'Topical diclofenac', 'Vitamin D']",False
+P-0016,41,Female,Atrial fibrillation,"['Apixaban', 'Metoprolol', 'Digoxin']",True
+P-0017,67,Male,Renal colic,"['Ibuprofen', 'Fluids']",True
+P-0018,33,Female,Appendicitis,"['Cephalexin', 'Pain reliever']",True
+P-0019,51,Male,Sepsis,"['Piperacillin-Tazobactam', 'Vancomycin', 'Dextrose saline']",False
+P-0020,48,Female,Hypothyroidism,['Levothyroxine'],True
+P-0021,62,Male,Bronchitis,"['Azithromycin', 'Dextromethorphan', 'Paracetamol']",True
+P-0022,72,Female,Cystitis,"['Nitrofurantoin', 'Hydration', 'Acetaminophen']",True
+P-0023,19,Female,Conjunctivitis,['Tobramycin eye drops'],True
+P-0024,76,Male,Sinusitis,"['Amoxicillin', 'Fluticasone nasal spray']",True
+P-0025,28,Female,Gastritis,"['Omeprazole', 'Ondansetron', 'Sucralfate']",True
+P-0026,54,Male,Pancreatitis,"['Simethicone', 'Ranitidine', 'IV fluids']",False
+P-0027,39,Female,Fractured wrist,"['Acetaminophen', 'Ibuprofen', 'Calcium supplement']",True
+P-0028,61,Male,Chronic kidney disease,"['Lisinopril', 'Furosemide', 'Iron supplement']",False
+P-0029,44,Female,Influenza,"['Paracetamol', 'Oseltamivir', 'Hydration']",True
+P-0030,53,Male,Heart failure,"['Furosemide', 'Lisinopril', 'Metoprolol']",True
+P-0031,46,Female,Chronic obstructive pulmonary disease,"['Fluticasone', 'Salbutamol inhaler', 'Azithromycin']",False
+P-0032,70,Male,Renal failure,"['Epoetin alfa', 'Hydration', 'Furosemide']",False
+P-0033,23,Female,Pneumonia,"['Azithromycin', 'Ceftriaxone', 'Paracetamol']",True
+P-0034,58,Male,Gallstones with biliary colic,"['Diclofenac', 'Ranitidine']",True
+P-0035,64,Female,Osteoporosis,"['Calcium carbonate', 'Vitamin D', 'Bisphosphonate']",True
+P-0036,41,Male,Hypertension with diabetes,"['Metformin', 'Lisinopril', 'Amlodipine']",False
+P-0037,52,Female,Anxiety disorder,"['Sertraline', 'Lorazepam']",True
+P-0038,69,Male,Benign prostatic hyperplasia,"['Tamsulosin', 'Hydration', 'Paracetamol']",True
+P-0039,31,Female,Iron deficiency anemia,"['Iron supplement', 'Vitamin C']",True
+P-0040,77,Male,Ischemic stroke,"['Aspirin', 'Statin', 'Antihypertensive']",False
+P-0041,27,Female,Gastroenteritis,"['Ondansetron', 'Oral rehydration salts']",True
+P-0042,56,Male,Acute kidney injury,"['Hydration', 'N-acetylcysteine', 'Furosemide']",False
+P-0043,40,Female,Pancreatitis,"['Pain reliever', 'IV fluids']",True
+P-0044,50,Male,Depression,"['Sertraline', 'Bupropion']",True
+P-0045,33,Female,Allergic reaction,"['Diphenhydramine', 'Corticosteroid cream']",True
+P-0046,66,Male,Coronary artery disease,"['Aspirin', 'Atorvastatin', 'Metoprolol']",False
+P-0047,39,Female,Candidiasis,['Fluconazole'],True
+P-0048,48,Male,Sinusitis,"['Amoxicillin', 'Fluticasone nasal spray', 'Ibuprofen']",True
+P-0049,59,Female,Hypoglycemia,"['Glucagon', 'Dextrose saline']",False
+P-0050,42,Male,Acute dermatitis,"['Hydrocortisone cream', 'Antihistamine', 'Emollient']",True
