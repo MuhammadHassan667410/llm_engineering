@@ -4,6 +4,7 @@ import json
 from openai import OpenAI
 from dotenv import load_dotenv
 
+
 def run_codex(prompt, model="gpt-5.1-codex", api_key=None):
     """
     A simplified, unified function to call OpenAI Codex models.
@@ -74,6 +75,7 @@ if __name__ == "__main__":
     print("\n--- Output from gpt-5.1-codex ---")
     print(code)
 
-    # 2. Use a standard model easily with the same function
-    # code_chat = run_codex("Explain this code", model="gpt-5.1-chat-latest")
-    # print(code_chat)
+    # 2. Use a standard chat model easily with the same function
+    code_chat = run_codex("Write a Python function to calculate the factorial of a number.", model="gpt-4o")
+    print("\n--- Output from gpt-4o ---")
+    print(code_chat)
